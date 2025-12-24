@@ -9,6 +9,10 @@ My main goal is to grow alongside advancements in AI by developing a strong foun
     • Building computer vision projects using OpenCV
     • Designing and training a YOLO-based object detection model
     and many others
+
+📫 How to reach me:
+    • email: desousanathan03@gmail.com
+    • discord: desousanathan
 <!--
 **desousanathan/desousanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
