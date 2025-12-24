@@ -23,6 +23,8 @@ My main goal is to grow alongside advancements in AI by developing a strong foun
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode)
+
 
 ## 📫 How to reach me:
 <a href="mailto:desousanathan03@gmail.com">
