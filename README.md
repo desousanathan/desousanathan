@@ -1,5 +1,14 @@
 ## Hi there 👋
+I am a second-year computer science student with a strong interest in artificial intelligence, particularly in computer vision. Since the popularisation of deep learning in 2011, I have been fascinated by how AI has been at the forefront of technological development, breaking perceptions of what was once thought impossible for computers in this day and age. 
+My main goal is to grow alongside advancements in AI by developing a strong foundation and deep knowledge of this rapidly evolving and diverse field.
 
+
+🔭 I’m currently working on 
+    • Implementing deep learning techniques using TensorFlow
+    • Developing a full-stack application with React, Django, HTML, and CSS
+    • Building computer vision projects using OpenCV
+    • Designing and training a YOLO-based object detection model
+    and many others
 <!--
 **desousanathan/desousanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
