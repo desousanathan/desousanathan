@@ -4,9 +4,9 @@ My main goal is to grow alongside advancements in AI by developing a strong foun
 
 
 🔭 I’m currently working on 
-    • Implementing deep learning techniques using TensorFlow \n
-    • Developing a full-stack application with React, Django, HTML, and CSS \n
-    • Designing and training a YOLO-based object detection model \n
+    • Implementing deep learning techniques using TensorFlow 
+    • Developing a full-stack application with React, Django, HTML, and CSS 
+    • Designing and training a YOLO-based object detection model
         and many others
     • Engineereing a robust web scraper to extract real-time data from various news channels, leveraging the outputs to drive automated            trend analytics and dynamic dashboard insights.
     
