@@ -6,8 +6,9 @@ My main goal is to grow alongside advancements in AI by developing a strong foun
 🔭 I’m currently working on 
     • Implementing deep learning techniques using TensorFlow 
     • Developing a full-stack application with React, Django, HTML, and CSS 
-    • Designing and training a YOLO-based object detection model
-        and many others
+    • Designing and training a YOLO-based object detection model and many others
+    • Building a RAD chatbot that is talored to my database and answers queries talored to me
+    
     
     
 ## 💻 Tech Stack
