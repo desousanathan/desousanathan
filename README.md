@@ -1,42 +1,62 @@
-## Hi there 👋
-I am a second-year computer science student with a strong interest in artificial intelligence, particularly in computer vision. Since the popularisation of deep learning in 2011, I have been fascinated by how AI has been at the forefront of technological development, breaking perceptions of what was once thought impossible for computers in this day and age. 
-My main goal is to grow alongside advancements in AI by developing a strong foundation and deep knowledge of this rapidly evolving and diverse field.
+# Hi there, I'm Nathan De Sousa 👋
 
+I am a second-year Computer Science student passionate about Artificial Intelligence, with a specialized focus on **Computer Vision** and **Deep Learning**. I am driven by how AI continuously redefines the boundaries of innovation, and I am committed to building a robust foundation to grow alongside this rapidly evolving field.
 
-🔭 I’m currently working on 
-    • Implementing deep learning techniques using TensorFlow 
-    • Developing a full-stack application with React, Django, HTML, and CSS 
-    • Designing and training a YOLO-based object detection model and many others
-    • Building a RAD chatbot that is talored to my database and answers queries talored to me
-    
-    
-    
+---
+
+## 🔭 Current Focus & Projects
+
+* **Computer Vision:** Designing, tuning, and training customized **YOLO** object detection models and exploring advanced CNN architectures.
+* **Generative AI:** Building a custom **RAG (Retrieval-Augmented Generation) Chatbot** tailored to private databases for precise, contextual querying.
+* **Deep Learning Foundations:** Implementing and experimenting with neural network architectures using **TensorFlow** and **PyTorch**.
+* **Full-Stack Development:** Developing end-to-end applications integrating **React** frontends with **Django** and **Flask** backends.
+
+---
+
 ## 💻 Tech Stack
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode)
 
+### 🧠 AI & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📫 How to reach me:
+### 🌐 Full-Stack Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Metrics
+
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=nathan-de-sousa&show_icons=true&theme=visual_studio_code" alt="Nathan's GitHub Stats" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-de-sousa&layout=compact&theme=visual_studio_code" alt="Top Langs" height="150" /> |
+
+---
+
+## 📫 Connect with Me
+
+Feel free to reach out for collaborations, project discussions, or just to talk about AI!
+
 <a href="mailto:desousanathan03@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Email-desousanathan03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 <a href="https://www.linkedin.com/in/nathan-de-sousa">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Nathan%20De%20Sousa-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-
 <!--
 **desousanathan/desousanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
