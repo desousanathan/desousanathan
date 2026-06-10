@@ -37,15 +37,6 @@ I am a second-year Computer Science student passionate about Artificial Intellig
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studiocode&logoColor=white)
 
----
-
-## 📊 GitHub Metrics
-
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=nathan-de-sousa&show_icons=true&theme=visual_studio_code" alt="Nathan's GitHub Stats" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-de-sousa&layout=compact&theme=visual_studio_code" alt="Top Langs" height="150" /> |
-
----
 
 ## 📫 Connect with Me
 
